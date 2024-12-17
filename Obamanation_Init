@@ -19,7 +19,7 @@ if(!campaignTrail_temp.loaded1){
 	}
 	
 	credits = function() {
-	  credits = ["Lead/Coding: Accurate_Feature9970", "Coding Help: Jet", "Writing: Murraythedog, Accurate_Feature9970", "Ending Writing Help: Thatchmaster, TheBigCheese87, DysonEngineer", "Feedback & Other Help: Massachusetts4Stockdale, DysonEngineer, Thatchmaster, Ettingermentum, velvet"]
+	  credits = ["Lead/Coding: Accurate_Feature9970", "Coding Help: Jet", "Writing: Murraythedog, Accurate_Feature9970", "Ending Writing Help: Thatchmaster, TheBigCheese87, DysonEngineer", "Feedback & Other Help: Massachusetts4Stockdale, DysonEngineer, Thatchmaster, Ettingermentum, velvet. ChudOS added the labels, Metheguy some images and songs."]
 	  text = "CREDITS:\n\n"
 	  for (i in credits) {
 		  text += credits[i] + "\n"
@@ -444,12 +444,12 @@ if(!campaignTrail_temp.loaded1){
 	  );
   
 	  const song6 = new Song(
-		"American Ride",
-		"Toby Keith",
-		"Country",
-		"2009",
-		"https://upload.wikimedia.org/wikipedia/en/3/3e/Toby_Keith_-_American_Ride.jpg",
-		"https://audio.jukehost.co.uk/l6Rl8QfNIZverKGfclb7IWJMgdqiyPqV"
+		"Millennium of the Blind",
+		"Megadeth",
+		"Metal",
+		"2011",
+		"https://i.imgur.com/Six3bC3.jpeg",
+		"https://file.garden/ZlwBsQzAvyz0wLEA/Millennium%20of%20The%20Blind.mp3"
 	  );
   
 	  const song7 = new Song(
