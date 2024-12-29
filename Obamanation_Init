@@ -426,12 +426,12 @@ if(!campaignTrail_temp.loaded1){
 	  );
   
 	  const song4 = new Song(
-		"Has The Bombing Begun?",
-		"David Rovics",
-		"Folk",
-		"2013",
-		"https://f4.bcbits.com/img/a0724477016_65",
-		"https://file.garden/Zrv1pPC1HzBK0svl/Has%20the%20Bombing%20Begun_.mp3"
+		"Terrorist Threats",
+		"Ab-Soul (ft. Danny Brown, Jhene Aiko)",
+		"Rap",
+		"2012",
+		"https://i.imgur.com/Uarvapg.jpeg",
+		"https://file.garden/ZkYlpFmp3wv99L22/Ab-Soul.mp3"
 	  );
   
 	  const song5 = new Song(
