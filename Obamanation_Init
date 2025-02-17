@@ -399,21 +399,21 @@ if(!campaignTrail_temp.loaded1){
 	
 	
 	  const song1 = new Song(
-		"Hussein",
-		"Blue Scholars",
-		"Hip Hop",
-		"2011",
-		"https://i.imgur.com/jCzb20O.jpeg",
-		"https://file.garden/ZjghkE74SkXuNmZh/Hussein.mp3"
+		"Another National Anthem",
+		"Stephen Sondheim",
+		"Folk",
+		"1990",
+		"https://m.media-amazon.com/images/I/71KE4JaW0RL._UF1000,1000_QL80_.jpg",
+		"https://files.catbox.moe/a3iqqe.mp3"
 	  );
   
 	  const song2 = new Song(
-    "POWER",
-    "Kanye West",
+    "Backseat Freestyle",
+    "Kendrick Lamar",
     "Rap",
-    "2010",
-    "https://i.imgur.com/1N4gdxx.jpeg",
-    "https://file.garden/ZsuzAVj2w3l6wqdE/Power.mp3"
+    "2012",
+    "https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg",
+    "https://audio.jukehost.co.uk/bz2tpojF7z7kJXPCwmMlmmpGLa9EYkhK"
 	  );
   
 	  const song3 = new Song(
@@ -422,7 +422,7 @@ if(!campaignTrail_temp.loaded1){
 		"Hip Hop",
 		"2012",
 		"https://www.shazam.com/mkimage/image/thumb/Music124/v4/82/5b/e4/825be449-6658-622e-1816-5bcb305cfc0c/838446001851.jpg/255x255bb-60.webp",
-		"https://file.garden/Zrv1pPC1HzBK0svl/Killer%20Mike%20-%20Reagan%20(Official%20Music%20Video).mp3"
+		"https://files.catbox.moe/8pbkyg.mp3"
 	  );
   
 	  const song4 = new Song(
@@ -431,7 +431,7 @@ if(!campaignTrail_temp.loaded1){
 		"Rap",
 		"2012",
 		"https://i.imgur.com/Uarvapg.jpeg",
-		"https://file.garden/ZkYlpFmp3wv99L22/Ab-Soul.mp3"
+		"https://files.catbox.moe/txyczb.mp3"
 	  );
   
 	  const song5 = new Song(
@@ -440,25 +440,25 @@ if(!campaignTrail_temp.loaded1){
 		"Hip Hop",
 		"2012",
 		"https://f4.bcbits.com/img/a2103506501_65",
-		"https://file.garden/ZiaExFXHb0wnq_iI/American%20Spring.mp3"
+		"https://files.catbox.moe/ppvjr4.mp3"
 	  );
   
 	  const song6 = new Song(
-		"Millennium of the Blind",
-		"Megadeth",
-		"Metal",
-		"2011",
-		"https://i.imgur.com/Six3bC3.jpeg",
-		"https://file.garden/ZlwBsQzAvyz0wLEA/Millennium%20of%20The%20Blind.mp3"
+		"The List",
+		"The Right Brothers",
+		"Rock",
+		"2006",
+		"https://lastfm.freetls.fastly.net/i/u/300x300/e19882848b4a4c3f9611adb461721b3c.bin",
+		"https://audio.jukehost.co.uk/87yCsTF6rPJcmBNQqFpRuBD8o2RcCk1S"
 	  );
   
 	  const song7 = new Song(
-		"My Name's Obama",
-		"Rucka Rucka Ali",
-		"Pop",
-		"2012",
-		"https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/87/0b/94/870b9425-a9a4-9058-2bf0-5a6cc0cfa674/859708548839_cover.tif/1200x1200bb.jpg",
-		"https://file.garden/Zrv1pPC1HzBK0svl/My%20Name's%20Obama.mp3"
+		"Sleep Now in the Fire",
+		"Rage Against the Machine",
+		"Rock",
+		"1999",
+		"https://upload.wikimedia.org/wikipedia/en/5/51/RAtM-BattleofLosAngeles.jpeg",
+		"https://audio.jukehost.co.uk/qozzcT2pN8to9iZLd5rrOoXVLIXF24mo"
 	  );
 	
 	  playlist.addSong(song1);
