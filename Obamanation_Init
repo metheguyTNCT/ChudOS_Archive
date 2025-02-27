@@ -399,12 +399,12 @@ if(!campaignTrail_temp.loaded1){
 	
 	
 	  const song1 = new Song(
-		"U Didn't Build That",
-		"Hugh Atkin",
-		"Rap",
-		"2012",
-		"https://pyxis.nymag.com/v1/imgs/727/c28/bba5a67543a82ce72af3647101ee0acb98-148449054.rsquare.w400.jpg",
-		"https://files.catbox.moe/hovmvl.mp3"
+		"Bang the President",
+		"The Gregory Brothers",
+		"Pop",
+		"2014",
+		"https://files.catbox.moe/20se64.png",
+		"https://files.catbox.moe/pndff1.mp3"
 	  );
   
 	  const song2 = new Song(
