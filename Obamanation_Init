@@ -399,12 +399,12 @@ if(!campaignTrail_temp.loaded1){
 	
 	
 	  const song1 = new Song(
-		"Bang the President",
-		"The Gregory Brothers",
-		"Pop",
-		"2014",
-		"https://files.catbox.moe/20se64.png",
-		"https://files.catbox.moe/pndff1.mp3"
+    "POWER",
+    "Kanye West",
+    "Rap",
+    "2010",
+    "https://i.imgur.com/1N4gdxx.jpeg",
+    "https://file.garden/ZsuzAVj2w3l6wqdE/Power.mp3"
 	  );
   
 	  const song2 = new Song(
@@ -413,7 +413,7 @@ if(!campaignTrail_temp.loaded1){
 		"Metal",
 		"2011",
 		"https://i.imgur.com/Six3bC3.jpeg",
-		"https://files.catbox.moe/6tmn2e.mp3"
+		"https://file.garden/Z7qfmQZIZjO_xV5N/youtube_fjhGB_3q8LQ_audio.mp3"
 	  );
   
 	  const song3 = new Song(
@@ -422,7 +422,7 @@ if(!campaignTrail_temp.loaded1){
 		"Hip Hop",
 		"2011",
 		"https://i.imgur.com/jCzb20O.jpeg",
-		"https://files.catbox.moe/gs2it7.mp3"
+		"https://file.garden/Z7qfmQZIZjO_xV5N/youtube_QbssPOsHwNs_audio.mp3"
 	  );
   
 	  const song4 = new Song(
@@ -431,7 +431,7 @@ if(!campaignTrail_temp.loaded1){
 		"Rap",
 		"2012",
 		"https://i.imgur.com/Uarvapg.jpeg",
-		"https://files.catbox.moe/txyczb.mp3"
+		"https://file.garden/Z7qfmQZIZjO_xV5N/youtube_J3Xki6VvPJ0_audio.mp3"
 	  );
   
 	  const song5 = new Song(
@@ -440,7 +440,7 @@ if(!campaignTrail_temp.loaded1){
 		"Hip Hop",
 		"2012",
 		"https://www.shazam.com/mkimage/image/thumb/Music124/v4/82/5b/e4/825be449-6658-622e-1816-5bcb305cfc0c/838446001851.jpg/255x255bb-60.webp",
-		"https://files.catbox.moe/8pbkyg.mp3"
+		"https://file.garden/Z7qfmQZIZjO_xV5N/youtube_6lIqNjC1RKU_audio.mp3"
 	  );
   
 	  const song6 = new Song(
@@ -449,7 +449,7 @@ if(!campaignTrail_temp.loaded1){
 		"Rap",
 		"2011",
 		"https://i.imgur.com/fGT2dTk.jpeg",
-		"https://files.catbox.moe/qs5ejv.mp3"
+		"https://file.garden/Z7qfmQZIZjO_xV5N/youtube_mb9WdXGNlns_audio.mp3"
 	  );
   
 	  const song7 = new Song(
@@ -458,7 +458,7 @@ if(!campaignTrail_temp.loaded1){
 		"Hip Hop",
 		"2012",
 		"https://f4.bcbits.com/img/a2103506501_65",
-		"https://files.catbox.moe/ppvjr4.mp3"
+		"https://file.garden/Z7qfmQZIZjO_xV5N/youtube_AYiwXc87OAs_audio.mp3"
 	  );
 	
 	  playlist.addSong(song1);
