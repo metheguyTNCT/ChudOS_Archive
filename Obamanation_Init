@@ -400,12 +400,12 @@ if(!campaignTrail_temp.loaded1){
 	
 	
 	  const song1 = new Song(
-    "POWER",
-    "Kanye West",
-    "Rap",
+    "Only an Expert",
+    "Laurie Anderson",
+    "Avant-Garde",
     "2010",
-    "https://i.imgur.com/1N4gdxx.jpeg",
-    "https://file.garden/ZsuzAVj2w3l6wqdE/Power.mp3"
+    "https://i.scdn.co/image/ab67616d0000b2736c101467832e76c1be95f59c",
+    "https://audio.jukehost.co.uk/r17Miq6R4m4OBkULFCV8ojmVZYVVzzcf"
 	  );
   
 	  const song2 = new Song(
